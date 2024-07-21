@@ -1,3 +1,4 @@
+// This is a case checking program.
 import java.util.Scanner;
 public class CaseCheck {
     public static void main(String[] args) {
